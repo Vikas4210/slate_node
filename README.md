@@ -6,6 +6,7 @@ A port of the documentation generator Slate to node.js, that can optionally be b
 
 The major difference is the use of [marked](https://github.com/chjj/marked) for parsing the .md, [highlight](https://highlightjs.org/) for syntax highlighting, and [Handlebars](http://handlebarsjs.com/) for templating.  
 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Vikas4210/slate_node)
 
 ## Building 
 
